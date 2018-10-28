@@ -1,2 +1,2 @@
 # Bankprogramm
-Banlprojekt für Programmieren3
+Bankprojekt für Programmieren3
